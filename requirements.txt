@@ -1,7 +1,6 @@
-flask
-flask-cors
-dlib==19.24.0
-opencv-python
-numpy
-scikit-learn
-joblib
+flask==2.2.5
+scikit-learn==1.2.2
+dlib==19.22.1
+joblib==1.2.0
+numpy==1.24.3
+opencv-python==4.7.0.72
