@@ -1,6 +1,6 @@
 flask
 flask-cors
-dlib
+dlib==19.24.0
 opencv-python
 numpy
 scikit-learn
