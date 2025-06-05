@@ -2,5 +2,4 @@ flask==2.2.5
 scikit-learn==1.2.2
 joblib==1.2.0
 numpy==1.24.3
-opencv-python==4.7.0.72
-./dlib-19.21.99-cp36-cp36m-manylinux1_x86_64.whl
+
